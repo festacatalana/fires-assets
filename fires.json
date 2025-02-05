@@ -1,0 +1,22 @@
+[
+  {
+    "nom": "Fira del Vi",
+    "ubicacio": "Falset",
+    "data_inici": "2025-02-04",
+    "data_fi": "2025-02-10",
+    "latitud": 41.145,
+    "longitud": 1.123,
+    "cartell": "https://el-teu-usuari.github.io/fires-assets/cartells/fira_vi.png",
+    "pdf": "https://el-teu-usuari.github.io/fires-assets/pdfs/fira_vi.pdf"
+  },
+  {
+    "nom": "Fira de la Castanya",
+    "ubicacio": "Viladrau",
+    "data_inici": "2025-02-08",
+    "data_fi": "2025-02-14",
+    "latitud": 42.008,
+    "longitud": 2.392,
+    "cartell": "https://el-teu-usuari.github.io/fires-assets/cartells/fira_castanya.png",
+    "pdf": "https://el-teu-usuari.github.io/fires-assets/pdfs/fira_castanya.pdf"
+  }
+]
