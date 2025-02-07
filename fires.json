@@ -6,8 +6,8 @@
     "data_fi": "2025-02-10",
     "latitud": 41.145,
     "longitud": 1.123,
-    "cartell": "https://festacatalana/fires-assets/cartells/fira_vi.png",
-    "pdf": "https://festacatalana/fires-assets/pdfs/fira_vi.pdf"
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_vi.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_vi.pdf"
   },
   {
     "nom": "Fira de la Castanya",
@@ -16,7 +16,7 @@
     "data_fi": "2025-02-14",
     "latitud": 42.008,
     "longitud": 2.392,
-    "cartell": "https://festacatalana/fires-assets/cartells/fira_castanya.png",
-    "pdf": "https://festacatalana/fires-assets/pdfs/fira_castanya.pdf"
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_castanya.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_castanya.pdf"
   }
 ]
