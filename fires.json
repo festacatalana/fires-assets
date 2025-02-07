@@ -2,8 +2,8 @@
   {
     "nom": "Fira del Vi",
     "ubicacio": "Falset",
-    "data_inici": "2025-02-04",
-    "data_fi": "2025-02-14",
+    "data_inici": "02-04-2025",
+    "data_fi": "12-02-2025",
     "latitud": 41.145,
     "longitud": 1.123,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_vi.png",
@@ -12,8 +12,8 @@
   {
     "nom": "Fira de la Castanya",
     "ubicacio": "Viladrau",
-    "data_inici": "2025-02-08",
-    "data_fi": "2025-02-14",
+    "data_inici": "08-02-2025",
+    "data_fi": "14-02-2025",
     "latitud": 42.008,
     "longitud": 2.392,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_castanya.png",
