@@ -2,8 +2,8 @@
   {
     "nom": "Fira del Vi",
     "ubicacio": "Falset",
-    "data_inici": "2025-02-04",
-    "data_fi": "2025-02-12",
+    "data_inici": "2025-02-13",
+    "data_fi": "2025-02-168",
     "latitud": 41.145,
     "longitud": 1.123,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_vi.png",
@@ -12,11 +12,72 @@
   {
     "nom": "Fira de la Castanya",
     "ubicacio": "Viladrau",
-    "data_inici": "2025-02-08",
-    "data_fi": "2025-02-14",
+    "data_inici": "2025-02-12",
+    "data_fi": "2025-02-19",
     "latitud": 42.008,
     "longitud": 2.392,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_castanya.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_castanya.pdf"
+  },
+  [
+  {
+    "nom": "Fira de la Calçotada",
+    "ubicacio": "Valls",
+    "data_inici": "2025-02-14",
+    "data_fi": "2025-02-16",
+    "latitud": 41.2867,
+    "longitud": 1.2491,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_calçotada.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_calçotada.pdf"
+  },
+  {
+    "nom": "Fira del Formatge Artesà",
+    "ubicacio": "Vic",
+    "data_inici": "2025-02-14",
+    "data_fi": "2025-02-18",
+    "latitud": 41.9301,
+    "longitud": 2.2549,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_formatge.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_formatge.pdf"
+  },
+  {
+    "nom": "Fira Medieval",
+    "ubicacio": "Montblanc",
+    "data_inici": "2025-02-14",
+    "data_fi": "2025-02-17",
+    "latitud": 41.3759,
+    "longitud": 1.1613,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_medieval.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_medieval.pdf"
+  },
+  {
+    "nom": "Fira del Vi Natural",
+    "ubicacio": "Porrera",
+    "data_inici": "2025-02-15",
+    "data_fi": "2025-02-17",
+    "latitud": 41.1879,
+    "longitud": 0.8776,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_vi_natural.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_vi_natural.pdf"
+  },
+  {
+    "nom": "Fira de l'Oli i la Pedra",
+    "ubicacio": "Les Borges Blanques",
+    "data_inici": "2025-02-15",
+    "data_fi": "2025-02-16",
+    "latitud": 41.5197,
+    "longitud": 0.8643,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_oli_pedra.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_oli_pedra.pdf"
+  },
+  {
+    "nom": "Fira de la Mel",
+    "ubicacio": "Arnes",
+    "data_inici": "2025-02-16",
+    "data_fi": "2025-02-18",
+    "latitud": 40.9232,
+    "longitud": 0.2975,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_mel.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_mel.pdf"
   }
 ]
