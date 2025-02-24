@@ -48,7 +48,6 @@
         "longitud": 1.1613,
         "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_medieval.png",
         "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_medieval.pdf"
-        "vip": true
     },
     {
         "nom": "Fira del Vi Natural",
@@ -119,6 +118,5 @@
         "longitud": 2.780328583,
         "cartell": "https://festacatalana.github.io/fires-assets/cartells/festa_del_ranxo.png",
         "pdf": "https://festacatalana.github.io/fires-assets/pdfs/festa_del_ranxo.pdf"
-        "vip": true
     }
 ]
