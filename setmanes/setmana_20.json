@@ -2,62 +2,11 @@
   "fira_de_lall_caldes_de_malavella": {
     "nom": "Fira de l'all",
     "ubicacio": "Caldes de Malavella",
-    "data_inici": "2025/05/15",
-    "data_fi": "2025/05/25",
+    "data_inici": "2025/05/16",
+    "data_fi": "2025/06/02",
     "latitud": 41.838775,
     "longitud": 2.8106111111,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_de_lall_caldes_de_malavella.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_de_lall_caldes_de_malavella.pdf"
-  },
-  "festa_de_laigua_sant_hilari_sacalm": {
-    "nom": "Festa de l'aigua",
-    "ubicacio": "Sant Hilari Sacalm",
-    "data_inici": "2025/05/15",
-    "data_fi": "2025/05/25",
-    "latitud": 41.8786527778,
-    "longitud": 2.5128277778,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/festa_de_laigua_sant_hilari_sacalm.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/festa_de_laigua_sant_hilari_sacalm.pdf"
-  },
-  "festa_major_riudarenes": {
-    "nom": "Festa Major",
-    "ubicacio": "Riudarenes",
-    "data_inici": "2025/05/18",
-    "data_fi": "2025/05/24",
-    "latitud": 41.8230472222,
-    "longitud": 2.7176416667,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/festa_major_riudarenes.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/festa_major_riudarenes.pdf"
-  },
-  "festa_primaveral_granollers": {
-    "nom": "Festa Primaveral",
-    "ubicacio": "Granollers",
-    "data_inici": "2025/05/15",
-    "data_fi": "2025/05/21",
-    "latitud": 41.6079472222,
-    "longitud": 2.2871555556,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/festa_primaveral_granollers.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/festa_primaveral_granollers.pdf",
-    "vip": true
-  },
-  "festa_petita_pals": {
-    "nom": "Festa petita",
-    "ubicacio": "Pals",
-    "data_inici": "2025/05/13",
-    "data_fi": "2025/05/19",
-    "latitud": 41.9710027778,
-    "longitud": 3.1499527778,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_20/festa_petita_pals.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_20/festa_petita_pals.pdf"
-  },
-  "fira_de_la_pau_pineda_de_mar": {
-    "nom": "Fira de la pau",
-    "ubicacio": "Pineda de Mar",
-    "data_inici": "2025/05/17",
-    "data_fi": "2025/05/23",
-    "latitud": 41.6265861111,
-    "longitud": 2.6910111111,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_20/fira_de_la_pau_pineda_de_mar.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_20/fira_de_la_pau_pineda_de_mar.pdf"
   }
 }
