@@ -1,0 +1,83 @@
+{
+  "fira_de_lall_caldes_de_malavella": {
+    "nom": "Fira de l'all",
+    "ubicacio": "Caldes de Malavella",
+    "data_inici": "2025/05/16",
+    "data_fi": "2025/06/02",
+    "latitud": 41.838775,
+    "longitud": 2.8106111111,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_de_lall_caldes_de_malavella.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_de_lall_caldes_de_malavella.pdf"
+  },
+  "festa_major_riudarenes": {
+    "nom": "Festa Major",
+    "ubicacio": "Riudarenes",
+    "data_inici": "2025/05/28",
+    "data_fi": "2025/06/05",
+    "latitud": 41.8230472222,
+    "longitud": 2.7176416667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/festa_major_riudarenes.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/festa_major_riudarenes.pdf"
+  },
+  "fira_de_les_flors_sils": {
+    "nom": "Fira de les flors",
+    "ubicacio": "Sils",
+    "data_inici": "2025/05/31",
+    "data_fi": "2025/06/07",
+    "latitud": 41.8087,
+    "longitud": 2.7447916667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/fira_de_les_flors_sils.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/fira_de_les_flors_sils.pdf"
+  },
+  "festa_primaveral_granollers": {
+    "nom": "Festa Primaveral",
+    "ubicacio": "Granollers",
+    "data_inici": "2025/06/03",
+    "data_fi": "2025/06/11",
+    "latitud": 41.6079472222,
+    "longitud": 2.2871555556,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/festa_primaveral_granollers.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/festa_primaveral_granollers.pdf",
+    "vip": true
+  },
+  "festa_petita_pals": {
+    "nom": "Festa petita",
+    "ubicacio": "Pals",
+    "data_inici": "2025/06/02",
+    "data_fi": "2025/06/11",
+    "latitud": 41.9710027778,
+    "longitud": 3.1499527778,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/festa_petita_pals.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/festa_petita_pals.pdf"
+  },
+  "fira_de_la_gallina_sils": {
+    "nom": "Fira de la gallina",
+    "ubicacio": "Sils",
+    "data_inici": "2025/05/26",
+    "data_fi": "2025/06/02",
+    "latitud": 41.8087,
+    "longitud": 2.7447916667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_22/fira_de_la_gallina_sils.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_22/fira_de_la_gallina_sils.pdf"
+  },
+  "festa_de_laigua_arbúcies": {
+    "nom": "Festa de L'aigua",
+    "ubicacio": "Arbúcies",
+    "data_inici": "2025/05/30",
+    "data_fi": "2025/06/06",
+    "latitud": 41.816975,
+    "longitud": 2.5169055556,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_22/festa_de_laigua_arbúcies.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_22/festa_de_laigua_arbúcies.pdf"
+  },
+  "festa_de_loli_benifallet": {
+    "nom": "Festa de l'oli",
+    "ubicacio": "Benifallet",
+    "data_inici": "2025/06/03",
+    "data_fi": "2025/06/10",
+    "latitud": 40.9751944444,
+    "longitud": 0.5178444444,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_23/festa_de_loli_benifallet.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_23/festa_de_loli_benifallet.pdf"
+  }
+}
