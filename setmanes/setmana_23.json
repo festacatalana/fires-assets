@@ -6,8 +6,8 @@
     "data_fi": "2025/06/09",
     "latitud": 42.0767777778,
     "longitud": 2.5088972222,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_23/festa_major_sant_feliu_de_pallerols.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_23/festa_major_sant_feliu_de_pallerols.pdf"
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/festa_major_sant_feliu_de_pallerols.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/festa_major_sant_feliu_de_pallerols.pdf"
   },
   "festa_major_dabella_vilallonga_de_ter": {
     "nom": "Festa Major d'Abella",
@@ -16,8 +16,8 @@
     "data_fi": "2025/06/07",
     "latitud": 42.3322166667,
     "longitud": 2.3130194444,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_23/festa_major_dabella_vilallonga_de_ter.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_23/festa_major_dabella_vilallonga_de_ter.pdf"
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/festa_major_dabella_vilallonga_de_ter.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/festa_major_dabella_vilallonga_de_ter.pdf"
   },
   "exposició_girona_ens_enamora_cabrera_de_mar": {
     "nom": "Exposició Girona ens enamora",
@@ -26,8 +26,8 @@
     "data_fi": "2025/06/08",
     "latitud": 41.5267833333,
     "longitud": 2.3955583333,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_23/exposició_girona_ens_enamora_cabrera_de_mar.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_23/exposició_girona_ens_enamora_cabrera_de_mar.pdf"
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/exposició_girona_ens_enamora_cabrera_de_mar.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/exposició_girona_ens_enamora_cabrera_de_mar.pdf"
   },
   "visites_guiades_cabrera_de_mar": {
     "nom": "Visites guiades",
@@ -36,8 +36,8 @@
     "data_fi": "2025/06/14",
     "latitud": 41.5267833333,
     "longitud": 2.3955583333,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_22/visites_guiades_cabrera_de_mar.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_22/visites_guiades_cabrera_de_mar.pdf"
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/visites_guiades_cabrera_de_mar.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/visites_guiades_cabrera_de_mar.pdf"
   },
   "agenda_cultural_tàrrega": {
     "nom": "Agenda Cultural",
@@ -46,8 +46,8 @@
     "data_fi": "2025/06/30",
     "latitud": 41.6494,
     "longitud": 1.141725,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_22/agenda_cultural_tàrrega.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_22/agenda_cultural_tàrrega.pdf"
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/agenda_cultural_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/agenda_cultural_tàrrega.pdf"
   },
   "festa_germandat_castellfollit_de_la_roca": {
     "nom": "Festa Germandat",
@@ -56,7 +56,7 @@
     "data_fi": "2025/06/07",
     "latitud": 42.2205972222,
     "longitud": 2.5507944444,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_23/festa_germandat_castellfollit_de_la_roca.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_23/festa_germandat_castellfollit_de_la_roca.pdf"
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/festa_germandat_castellfollit_de_la_roca.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/festa_germandat_castellfollit_de_la_roca.pdf"
   }
 }
