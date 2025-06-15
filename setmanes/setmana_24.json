@@ -28,5 +28,15 @@
     "longitud": 1.141725,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_22/agenda_cultural_tàrrega.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_22/agenda_cultural_tàrrega.pdf"
+  },
+  "festa_major_de_sant_joan_vinyols_i_els_arcs": {
+    "nom": "Festa Major de Sant Joan",
+    "ubicacio": "Vinyols i els Arcs",
+    "data_inici": "2025/06/15",
+    "data_fi": "2025/06/28",
+    "latitud": 41.1154166667,
+    "longitud": 1.0401555556,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_24/festa_major_de_sant_joan_vinyols_i_els_arcs.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_24/festa_major_de_sant_joan_vinyols_i_els_arcs.pdf"
   }
 }
