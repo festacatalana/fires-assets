@@ -13,11 +13,12 @@
     "nom": "Prova sense cartell ni pdf",
     "ubicacio": "Igualada",
     "data_inici": "2025/06/27",
-    "data_fi": "2025/06/30",
+    "data_fi": "2025/07/01",
     "latitud": 41.5793388889,
     "longitud": 1.6184361111,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_26/prova_sense_cartell_ni_pdf_igualada.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_26/prova_sense_cartell_ni_pdf_igualada.pdf"
+    "vip": true
   },
   "cinema_a_la_fresca_casa_en_flames_tàrrega": {
     "nom": "Cinema a la fresca \"Casa en flames\"",
