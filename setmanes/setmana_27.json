@@ -18,5 +18,135 @@
     "longitud": 1.6184361111,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_26/prova_sense_cartell_ni_pdf_igualada.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_26/prova_sense_cartell_ni_pdf_igualada.pdf"
+  },
+  "cinema_a_la_fresca_casa_en_flames_tàrrega": {
+    "nom": "Cinema a la fresca \"Casa en flames\"",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/02",
+    "data_fi": "2025/07/02",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/cinema_a_la_fresca_casa_en_flames_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/cinema_a_la_fresca_casa_en_flames_tàrrega.pdf"
+  },
+  "firatàrrega_assaig_obert_eléctrico_28_tàrrega": {
+    "nom": "FIRATÀRREGA, assaig obert \"Eléctrico 28\"",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/04",
+    "data_fi": "2025/07/04",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/firatàrrega_assaig_obert_eléctrico_28_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/firatàrrega_assaig_obert_eléctrico_28_tàrrega.pdf"
+  },
+  "jocs_daigua_amb_tobogan_i_inflables_tàrrega": {
+    "nom": "Jocs d'aigua amb tobogan i inflables",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/04",
+    "data_fi": "2025/07/04",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/jocs_daigua_amb_tobogan_i_inflables_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/jocs_daigua_amb_tobogan_i_inflables_tàrrega.pdf"
+  },
+  "concert_del_grup_vayven_versions_tàrrega": {
+    "nom": "Concert del grup \"VAYVEN\" (versions)",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/04",
+    "data_fi": "2025/07/04",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/concert_del_grup_vayven_versions_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/concert_del_grup_vayven_versions_tàrrega.pdf"
+  },
+  "firatàrrega_assaig_obert_insectotròpics_tàrrega": {
+    "nom": "FIRATÀRREGA Assaig obert \"INSECTOTRÒPICS\"",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/04",
+    "data_fi": "2025/07/04",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/firatàrrega_assaig_obert_insectotròpics_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/firatàrrega_assaig_obert_insectotròpics_tàrrega.pdf"
+  },
+  "concert_del_grup_talkual_versions_tàrrega": {
+    "nom": "Concert del grup \"TALKUAL\" (versions)",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/04",
+    "data_fi": "2025/07/04",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/concert_del_grup_talkual_versions_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/concert_del_grup_talkual_versions_tàrrega.pdf"
+  },
+  "visita_guiada_ruta_pedrolo_tàrrega": {
+    "nom": "Visita guiada \"Ruta pedrolo\"",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/05",
+    "data_fi": "2025/07/05",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/visita_guiada_ruta_pedrolo_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/visita_guiada_ruta_pedrolo_tàrrega.pdf"
+  },
+  "festa_del_barri_de_fàtima_tàrrega": {
+    "nom": "Festa del barri de Fàtima",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/05",
+    "data_fi": "2025/07/05",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/festa_del_barri_de_fàtima_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/festa_del_barri_de_fàtima_tàrrega.pdf"
+  },
+  "festival_inclusiu_sardines__marinada_tàrrega": {
+    "nom": "Festival inclusiu \"Sardines & Marinada\"",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/05",
+    "data_fi": "2025/07/05",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/festival_inclusiu_sardines__marinada_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/festival_inclusiu_sardines__marinada_tàrrega.pdf"
+  },
+  "19a_nit_de_lesport_targarí_tàrrega": {
+    "nom": "19a nit de l'esport Targarí",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/05",
+    "data_fi": "2025/07/05",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/19a_nit_de_lesport_targarí_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/19a_nit_de_lesport_targarí_tàrrega.pdf"
+  },
+  "visita_guiada_exposició_tragèdia_al_call_tàrrega": {
+    "nom": "Visita guiada exposició \"Tragèdia al call\"",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/06",
+    "data_fi": "2025/07/06",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/visita_guiada_exposició_tragèdia_al_call_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/visita_guiada_exposició_tragèdia_al_call_tàrrega.pdf"
+  },
+  "mullat_per_lesclerosi_múltiple_tàrrega": {
+    "nom": "Mulla't per l'esclerosi múltiple",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/06",
+    "data_fi": "2025/07/06",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/mullat_per_lesclerosi_múltiple_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/mullat_per_lesclerosi_múltiple_tàrrega.pdf"
+  },
+  "cicle_darts_al_carrer_tàrrega": {
+    "nom": "Cicle d'arts al carrer",
+    "ubicacio": "Tàrrega",
+    "data_inici": "2025/07/06",
+    "data_fi": "2025/07/06",
+    "latitud": 41.6494,
+    "longitud": 1.141725,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/cicle_darts_al_carrer_tàrrega.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/cicle_darts_al_carrer_tàrrega.pdf"
   }
 }
