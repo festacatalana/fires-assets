@@ -148,5 +148,15 @@
     "longitud": 1.141725,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/cicle_darts_al_carrer_tàrrega.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/cicle_darts_al_carrer_tàrrega.pdf"
+  },
+  "mullat_per_lesclerosi_múltiple_altafulla": {
+    "nom": "Mulla't per l'esclerosi múltiple",
+    "ubicacio": "Altafulla",
+    "data_inici": "2025/07/06",
+    "data_fi": "2025/07/06",
+    "latitud": 41.1425,
+    "longitud": 1.3771305556,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_27/mullat_per_lesclerosi_múltiple_altafulla.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_27/mullat_per_lesclerosi_múltiple_altafulla.pdf"
   }
 }
