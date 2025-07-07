@@ -128,5 +128,85 @@
     "longitud": 1.141725,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_28/espectacle_de_circ_i_màgia_amb_txema_muñoz_tàrrega.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_28/espectacle_de_circ_i_màgia_amb_txema_muñoz_tàrrega.pdf"
+  },
+  "european_balloon_festival_igualada": {
+    "nom": "European balloon festival",
+    "ubicacio": "Igualada",
+    "data_inici": "2025/07/09",
+    "data_fi": "2025/07/13",
+    "latitud": 41.5793388889,
+    "longitud": 1.6184361111,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_28/european_balloon_festival_igualada.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_28/european_balloon_festival_igualada.pdf"
+  },
+  "festa_destiu_sils": {
+    "nom": "Festa d'estiu",
+    "ubicacio": "Sils",
+    "data_inici": "2025/07/11",
+    "data_fi": "2025/07/14",
+    "latitud": 41.8087,
+    "longitud": 2.7447916667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_28/festa_destiu_sils.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_28/festa_destiu_sils.pdf"
+  },
+  "festival_de_música_als_masos_sant_feliu_de_pallerols": {
+    "nom": "Festival de música als masos",
+    "ubicacio": "Sant Feliu de Pallerols",
+    "data_inici": "2025/07/12",
+    "data_fi": "2025/07/12",
+    "latitud": 42.0767777778,
+    "longitud": 2.5088972222,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_28/festival_de_música_als_masos_sant_feliu_de_pallerols.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_28/festival_de_música_als_masos_sant_feliu_de_pallerols.pdf"
+  },
+  "14è_festival_de_música_antiga_dels_pirineus_sant_feliu_de_pallerols": {
+    "nom": "14è Festival de música antiga dels pirineus",
+    "ubicacio": "Sant Feliu de Pallerols",
+    "data_inici": "2025/07/13",
+    "data_fi": "2025/07/13",
+    "latitud": 42.0767777778,
+    "longitud": 2.5088972222,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_28/14è_festival_de_música_antiga_dels_pirineus_sant_feliu_de_pallerols.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_28/14è_festival_de_música_antiga_dels_pirineus_sant_feliu_de_pallerols.pdf"
+  },
+  "taller_de_descoberta_del_fons_marí_altafulla": {
+    "nom": "Taller de descoberta del fons marí",
+    "ubicacio": "Altafulla",
+    "data_inici": "2025/07/12",
+    "data_fi": "2025/07/12",
+    "latitud": 41.1425,
+    "longitud": 1.3771305556,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_28/taller_de_descoberta_del_fons_marí_altafulla.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_28/taller_de_descoberta_del_fons_marí_altafulla.pdf"
+  },
+  "diada_castellera_de_les_cultures_altafulla": {
+    "nom": "Diada castellera de les cultures",
+    "ubicacio": "Altafulla",
+    "data_inici": "2025/07/12",
+    "data_fi": "2025/07/12",
+    "latitud": 41.1425,
+    "longitud": 1.3771305556,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_28/diada_castellera_de_les_cultures_altafulla.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_28/diada_castellera_de_les_cultures_altafulla.pdf"
+  },
+  "altafujazz_pol_omedes_tasty_time_i_festa_grossa_altafulla": {
+    "nom": "Altafujazz: Pol Omedes tasty Time i \"festa grossa\"",
+    "ubicacio": "Altafulla",
+    "data_inici": "2025/07/12",
+    "data_fi": "2025/07/12",
+    "latitud": 41.1425,
+    "longitud": 1.3771305556,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_28/altafujazz_pol_omedes_tasty_time_i_festa_grossa_altafulla.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_28/altafujazz_pol_omedes_tasty_time_i_festa_grossa_altafulla.pdf"
+  },
+  "campionat_del_món_dala_delta_àger": {
+    "nom": "Campionat del món d'ala delta",
+    "ubicacio": "Àger",
+    "data_inici": "2025/07/13",
+    "data_fi": "2025/07/26",
+    "latitud": 42.0028805556,
+    "longitud": 0.7626166667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_28/campionat_del_món_dala_delta_àger.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_28/campionat_del_món_dala_delta_àger.pdf"
   }
 }
