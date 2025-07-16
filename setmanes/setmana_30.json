@@ -198,5 +198,55 @@
     "longitud": 1.3771305556,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/24_hores_futbol_sala_tournament_altafulla.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/24_hores_futbol_sala_tournament_altafulla.pdf"
+  },
+  "festa_de_lescuma_girona": {
+    "nom": "Festa de l'escuma",
+    "ubicacio": "Girona",
+    "data_inici": "2025/07/26",
+    "data_fi": "2025/07/26",
+    "latitud": 41.9837972222,
+    "longitud": 2.8210444444,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_de_lescuma_girona.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_de_lescuma_girona.pdf"
+  },
+  "festa_major_font_de_la_pólvora_girona": {
+    "nom": "Festa Major Font de la pólvora",
+    "ubicacio": "girona",
+    "data_inici": "2025/07/25",
+    "data_fi": "2025/07/27",
+    "latitud": 41.9837972222,
+    "longitud": 2.8210444444,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_font_de_la_pólvora_girona.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_font_de_la_pólvora_girona.pdf"
+  },
+  "monòlegs_participatius_per_reflexionar_de_nus_cooperativa_girona": {
+    "nom": "Monòlegs participatius per reflexionar de NUS Cooperativa",
+    "ubicacio": "Girona",
+    "data_inici": "2025/07/22",
+    "data_fi": "2025/07/22",
+    "latitud": 41.9837972222,
+    "longitud": 2.8210444444,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/monòlegs_participatius_per_reflexionar_de_nus_cooperativa_girona.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/monòlegs_participatius_per_reflexionar_de_nus_cooperativa_girona.pdf"
+  },
+  "miquelet_pallassades_girona": {
+    "nom": "MiQueLeT. PALLASSADES",
+    "ubicacio": "Girona",
+    "data_inici": "2025/07/23",
+    "data_fi": "2025/07/23",
+    "latitud": 41.9837972222,
+    "longitud": 2.8210444444,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/miquelet_pallassades_girona.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/miquelet_pallassades_girona.pdf"
+  },
+  "ruta_cultural_el_camí_del_pelegrí_sils": {
+    "nom": "Ruta cultural: El camí del pelegrí",
+    "ubicacio": "Sils",
+    "data_inici": "2025/07/22",
+    "data_fi": "2025/07/22",
+    "latitud": 41.8087,
+    "longitud": 2.7447916667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/ruta_cultural_el_camí_del_pelegrí_sils.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/ruta_cultural_el_camí_del_pelegrí_sils.pdf"
   }
 }

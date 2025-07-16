@@ -178,5 +178,45 @@
     "longitud": 0.7626166667,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_28/campionat_del_món_dala_delta_àger.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_28/campionat_del_món_dala_delta_àger.pdf"
+  },
+  "balls_i_músiques_del_món_recorregut_per_llatinoamèrica_àfrica_i_catalunya_girona": {
+    "nom": "Balls i músiques del món. Recorregut per Llatinoamèrica, Àfrica i Catalunya",
+    "ubicacio": "Girona",
+    "data_inici": "2025/07/18",
+    "data_fi": "2025/07/18",
+    "latitud": 41.9837972222,
+    "longitud": 2.8210444444,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/balls_i_músiques_del_món_recorregut_per_llatinoamèrica_àfrica_i_catalunya_girona.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/balls_i_músiques_del_món_recorregut_per_llatinoamèrica_àfrica_i_catalunya_girona.pdf"
+  },
+  "tarda_de_futbol_girona": {
+    "nom": "Tarda de futbol",
+    "ubicacio": "Girona",
+    "data_inici": "2025/07/18",
+    "data_fi": "2025/07/18",
+    "latitud": 41.9837972222,
+    "longitud": 2.8210444444,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/tarda_de_futbol_girona.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/tarda_de_futbol_girona.pdf"
+  },
+  "caminada_i_pedalada_per_lentorn_sils": {
+    "nom": "Caminada i pedalada per l'entorn",
+    "ubicacio": "Sils",
+    "data_inici": "2025/07/18",
+    "data_fi": "2025/07/18",
+    "latitud": 41.8087,
+    "longitud": 2.7447916667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/caminada_i_pedalada_per_lentorn_sils.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/caminada_i_pedalada_per_lentorn_sils.pdf"
+  },
+  "39a_festa_de_germanor_de_la_urb_mallorquines_sils": {
+    "nom": "39A Festa de germanor de la urb. Mallorquines",
+    "ubicacio": "Sils",
+    "data_inici": "2028/07/19",
+    "data_fi": "2028/07/19",
+    "latitud": 41.8087,
+    "longitud": 2.7447916667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/39a_festa_de_germanor_de_la_urb_mallorquines_sils.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/39a_festa_de_germanor_de_la_urb_mallorquines_sils.pdf"
   }
 }
