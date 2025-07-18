@@ -248,5 +248,205 @@
     "longitud": 2.7447916667,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/ruta_cultural_el_camí_del_pelegrí_sils.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/ruta_cultural_el_camí_del_pelegrí_sils.pdf"
+  },
+  "festa_major_del_roser_puigcerdà": {
+    "nom": "Festa major del Roser",
+    "ubicacio": "Puigcerdà",
+    "data_inici": "2025/07/17",
+    "data_fi": "2025/07/21",
+    "latitud": 42.4339583333,
+    "longitud": 1.9283555556,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/festa_major_del_roser_puigcerdà.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/festa_major_del_roser_puigcerdà.pdf"
+  },
+  "cinema_a_la_fresca_wonka_cassà_de_la_selva": {
+    "nom": "Cinema a la fresca \"Wonka\"",
+    "ubicacio": "Cassà de la Selva",
+    "data_inici": "2025/07/23",
+    "data_fi": "2025/07/23",
+    "latitud": 41.8884027778,
+    "longitud": 2.8773583333,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/cinema_a_la_fresca_wonka_cassà_de_la_selva.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/cinema_a_la_fresca_wonka_cassà_de_la_selva.pdf"
+  },
+  "festa_major_sant_cugat_sesgarrigues": {
+    "nom": "Festa major",
+    "ubicacio": "Sant Cugat Sesgarrigues",
+    "data_inici": "2025/07/18",
+    "data_fi": "2025/07/28",
+    "latitud": 41.365525,
+    "longitud": 1.7542416667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/festa_major_sant_cugat_sesgarrigues.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/festa_major_sant_cugat_sesgarrigues.pdf"
+  },
+  "festa_major_la_fuliola": {
+    "nom": "Festa major",
+    "ubicacio": "La fuliola",
+    "data_inici": "2025/07/25",
+    "data_fi": "2025/07/27",
+    "latitud": 41.7146777778,
+    "longitud": 1.0193472222,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_la_fuliola.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_la_fuliola.pdf"
+  },
+  "festa_major_sarral": {
+    "nom": "Festa major",
+    "ubicacio": "Sarral",
+    "data_inici": "2025/07/20",
+    "data_fi": "2025/07/27",
+    "latitud": 41.4457388889,
+    "longitud": 1.2492972222,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/festa_major_sarral.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/festa_major_sarral.pdf"
+  },
+  "festa_major_riudecanyes": {
+    "nom": "Festa major",
+    "ubicacio": "Riudecanyes",
+    "data_inici": "2025/07/22",
+    "data_fi": "2025/07/28",
+    "latitud": 41.1309583333,
+    "longitud": 0.9625583333,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_riudecanyes.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_riudecanyes.pdf"
+  },
+  "festa_major_els_hostalets_de_pierola": {
+    "nom": "Festa major",
+    "ubicacio": "Els Hostalets de Pierola",
+    "data_inici": "2025/07/23",
+    "data_fi": "2025/07/27",
+    "latitud": 41.53507404860941,
+    "longitud": 1.7694292105835887,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_els_hostalets_de_pierola.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_els_hostalets_de_pierola.pdf"
+  },
+  "festa_major_santa_cristina_daro": {
+    "nom": "Festa major",
+    "ubicacio": "Santa Cristina d'aro",
+    "data_inici": "2025/07/23",
+    "data_fi": "2025/07/27",
+    "latitud": 41.8172055556,
+    "longitud": 3.0033,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_santa_cristina_daro.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_santa_cristina_daro.pdf"
+  },
+  "festa_major_destiu_vilallonga_del_camp": {
+    "nom": "Festa Major d'estiu",
+    "ubicacio": "Vilallonga del camp",
+    "data_inici": "2025/07/24",
+    "data_fi": "2025/07/31",
+    "latitud": 41.2125027778,
+    "longitud": 1.2070944444,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_destiu_vilallonga_del_camp.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_destiu_vilallonga_del_camp.pdf"
+  },
+  "festa_major_les_planes_dhostoles": {
+    "nom": "Festa Major",
+    "ubicacio": "Les planes d'Hostoles",
+    "data_inici": "2025/07/24",
+    "data_fi": "2025/07/27",
+    "latitud": 42.0566333333,
+    "longitud": 2.5377527778,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_les_planes_dhostoles.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_les_planes_dhostoles.pdf"
+  },
+  "festa_major_santa_eulàlia_de_ronçana": {
+    "nom": "Festa major",
+    "ubicacio": "Santa Eulàlia de Ronçana",
+    "data_inici": "2025/07/24",
+    "data_fi": "2025/07/27",
+    "latitud": 41.6568777778,
+    "longitud": 2.225125,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_santa_eulàlia_de_ronçana.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_santa_eulàlia_de_ronçana.pdf"
+  },
+  "festa_major_arbúcies": {
+    "nom": "Festa Major",
+    "ubicacio": "Arbúcies",
+    "data_inici": "2025/07/24",
+    "data_fi": "2025/07/28",
+    "latitud": 41.816975,
+    "longitud": 2.5169055556,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_arbúcies.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_arbúcies.pdf"
+  },
+  "festes_majors_sant_jaume_denveja": {
+    "nom": "Festes majors",
+    "ubicacio": "Sant Jaume d'Enveja",
+    "data_inici": "2025/07/24",
+    "data_fi": "2025/08/03",
+    "latitud": 40.7068861111,
+    "longitud": 0.7189916667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festes_majors_sant_jaume_denveja.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festes_majors_sant_jaume_denveja.pdf"
+  },
+  "festa_major_sant_martí_de_centelles": {
+    "nom": "Festa Major",
+    "ubicacio": "Sant Martí de Centelles",
+    "data_inici": "2025/07/24",
+    "data_fi": "2025/07/27",
+    "latitud": 41.7646666667,
+    "longitud": 2.2517388889,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_sant_martí_de_centelles.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_sant_martí_de_centelles.pdf"
+  },
+  "festa_major_de_puigverd_lleida": {
+    "nom": "Festa Major de Puigverd",
+    "ubicacio": "Lleida",
+    "data_inici": "2025/07/24",
+    "data_fi": "2025/07/27",
+    "latitud": 41.6191861111,
+    "longitud": 0.6259111111,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_de_puigverd_lleida.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_de_puigverd_lleida.pdf"
+  },
+  "festa_major_portbou": {
+    "nom": "Festa Major",
+    "ubicacio": "Portbou",
+    "data_inici": "2025/07/24",
+    "data_fi": "2025/07/27",
+    "latitud": 42.42715,
+    "longitud": 3.1592416667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_portbou.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_portbou.pdf"
+  },
+  "festa_major_destiu_vilaseca": {
+    "nom": "Festa Major d'estiu",
+    "ubicacio": "Vila-seca",
+    "data_inici": "2025/07/25",
+    "data_fi": "2025/08/03",
+    "latitud": 41.1113277778,
+    "longitud": 1.1468611111,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_destiu_vilaseca.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_destiu_vilaseca.pdf"
+  },
+  "festa_major_de_mataró_les_santes_mataró": {
+    "nom": "Festa Major de Mataró \"Les Santes\"",
+    "ubicacio": "Mataró",
+    "data_inici": "2025/07/25",
+    "data_fi": "2025/07/29",
+    "latitud": 41.5411944444,
+    "longitud": 2.4453083333,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_de_mataró_les_santes_mataró.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_de_mataró_les_santes_mataró.pdf"
+  },
+  "festa_major_miralcamp": {
+    "nom": "Festa major",
+    "ubicacio": "Miralcamp",
+    "data_inici": "2025/07/23",
+    "data_fi": "2025/07/27",
+    "latitud": 41.6057166667,
+    "longitud": 0.8813916667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_miralcamp.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_miralcamp.pdf"
+  },
+  "xxix_festa_del_segar_i_el_batre_santa_eulàlia_de_riuprimer": {
+    "nom": "XXIX Festa del segar i el batre",
+    "ubicacio": "Santa Eulàlia de Riuprimer",
+    "data_inici": "2025/07/26",
+    "data_fi": "2025/07/26",
+    "latitud": 41.9119972222,
+    "longitud": 2.1897583333,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/xxix_festa_del_segar_i_el_batre_santa_eulàlia_de_riuprimer.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/xxix_festa_del_segar_i_el_batre_santa_eulàlia_de_riuprimer.pdf"
   }
 }

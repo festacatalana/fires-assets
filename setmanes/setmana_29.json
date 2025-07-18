@@ -126,8 +126,8 @@
     "data_fi": "2025/07/14",
     "latitud": 41.8087,
     "longitud": 2.7447916667,
-    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/festa_destiu_sils.png",
-    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/festa_destiu_sils.pdf"
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_28/festa_destiu_sils.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_28/festa_destiu_sils.pdf"
   },
   "pesca_lestiu_la_niña_bonita_sant_feliu_de_pallerols": {
     "nom": "Pesca l'estiu \"La niña bonita\"",
@@ -218,5 +218,35 @@
     "longitud": 2.7447916667,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/39a_festa_de_germanor_de_la_urb_mallorquines_sils.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/39a_festa_de_germanor_de_la_urb_mallorquines_sils.pdf"
+  },
+  "festa_major_del_roser_puigcerdà": {
+    "nom": "Festa major del Roser",
+    "ubicacio": "Puigcerdà",
+    "data_inici": "2025/07/17",
+    "data_fi": "2025/07/21",
+    "latitud": 42.4339583333,
+    "longitud": 1.9283555556,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/festa_major_del_roser_puigcerdà.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/festa_major_del_roser_puigcerdà.pdf"
+  },
+  "festa_major_sant_cugat_sesgarrigues": {
+    "nom": "Festa major",
+    "ubicacio": "Sant Cugat Sesgarrigues",
+    "data_inici": "2025/07/18",
+    "data_fi": "2025/07/28",
+    "latitud": 41.365525,
+    "longitud": 1.7542416667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/festa_major_sant_cugat_sesgarrigues.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/festa_major_sant_cugat_sesgarrigues.pdf"
+  },
+  "festa_major_sarral": {
+    "nom": "Festa major",
+    "ubicacio": "Sarral",
+    "data_inici": "2025/07/20",
+    "data_fi": "2025/07/27",
+    "latitud": 41.4457388889,
+    "longitud": 1.2492972222,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_29/festa_major_sarral.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_29/festa_major_sarral.pdf"
   }
 }
