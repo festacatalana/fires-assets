@@ -448,5 +448,55 @@
     "longitud": 2.1897583333,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/xxix_festa_del_segar_i_el_batre_santa_eulàlia_de_riuprimer.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/xxix_festa_del_segar_i_el_batre_santa_eulàlia_de_riuprimer.pdf"
+  },
+  "mullat_per_lesclerosi_múltiple_la_fatarella": {
+    "nom": "Mulla't per l'esclerosi múltiple",
+    "ubicacio": "La Fatarella",
+    "data_inici": "2025/07/26",
+    "data_fi": "2025/07/26",
+    "latitud": 41.1631805556,
+    "longitud": 0.4750083333,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/mullat_per_lesclerosi_múltiple_la_fatarella.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/mullat_per_lesclerosi_múltiple_la_fatarella.pdf"
+  },
+  "festa_major_esclanyà": {
+    "nom": "Festa Major",
+    "ubicacio": "Esclanyà",
+    "data_inici": "2025/07/26",
+    "data_fi": "2025/08/03",
+    "latitud": 41.9292083261548,
+    "longitud": 3.1762178502614566,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_esclanyà.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_esclanyà.pdf"
+  },
+  "focs_de_blanes_blanes": {
+    "nom": "Focs de Blanes",
+    "ubicacio": "Blanes",
+    "data_inici": "2025/07/23",
+    "data_fi": "2025/07/27",
+    "latitud": 41.6761694444,
+    "longitud": 2.7915666667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/focs_de_blanes_blanes.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/focs_de_blanes_blanes.pdf"
+  },
+  "festa_major_blanes": {
+    "nom": "Festa Major",
+    "ubicacio": "Blanes",
+    "data_inici": "2025/07/22",
+    "data_fi": "2025/07/28",
+    "latitud": 41.6761694444,
+    "longitud": 2.7915666667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_blanes.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_blanes.pdf"
+  },
+  "festa_major_la_goba_vidreres": {
+    "nom": "Festa Major \"La Goba\"",
+    "ubicacio": "Vidreres",
+    "data_inici": "2025/07/25",
+    "data_fi": "2025/07/27",
+    "latitud": 41.7905333333,
+    "longitud": 2.7794638889,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_la_goba_vidreres.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_la_goba_vidreres.pdf"
   }
 }

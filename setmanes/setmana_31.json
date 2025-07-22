@@ -208,5 +208,95 @@
     "longitud": 1.6709555556,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_pacs_del_penedès.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_pacs_del_penedès.pdf"
+  },
+  "festes_majors_destiu_la_fatarella": {
+    "nom": "Festes Majors d'estiu",
+    "ubicacio": "La Fatarella",
+    "data_inici": "2025/08/02",
+    "data_fi": "2025/08/07",
+    "latitud": 41.1631805556,
+    "longitud": 0.4750083333,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festes_majors_destiu_la_fatarella.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festes_majors_destiu_la_fatarella.pdf"
+  },
+  "aprenem_a_ballar_sardanes_la_fatarella": {
+    "nom": "Aprenem a ballar sardanes",
+    "ubicacio": "La Fatarella",
+    "data_inici": "2025/07/28",
+    "data_fi": "2025/07/30",
+    "latitud": 41.1631805556,
+    "longitud": 0.4750083333,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/aprenem_a_ballar_sardanes_la_fatarella.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/aprenem_a_ballar_sardanes_la_fatarella.pdf"
+  },
+  "aprenem_a_jugar_a_birles_la_fatarella": {
+    "nom": "Aprenem a jugar a birles",
+    "ubicacio": "La Fatarella",
+    "data_inici": "2025/07/30",
+    "data_fi": "2025/07/31",
+    "latitud": 41.1631805556,
+    "longitud": 0.4750083333,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/aprenem_a_jugar_a_birles_la_fatarella.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/aprenem_a_jugar_a_birles_la_fatarella.pdf"
+  },
+  "música_i_pintura_en_directe_la_fatarella": {
+    "nom": "Música i pintura en directe",
+    "ubicacio": "La Fatarella",
+    "data_inici": "2025/07/31",
+    "data_fi": "2025/07/31",
+    "latitud": 41.1631805556,
+    "longitud": 0.4750083333,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/música_i_pintura_en_directe_la_fatarella.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/música_i_pintura_en_directe_la_fatarella.pdf"
+  },
+  "festa_major_vacarisses": {
+    "nom": "Festa Major",
+    "ubicacio": "Vacarisses",
+    "data_inici": "2025/07/30",
+    "data_fi": "2025/08/03",
+    "latitud": 41.6083166667,
+    "longitud": 1.9188861111,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_vacarisses.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_vacarisses.pdf"
+  },
+  "punxada_de_birres_artesanes_esclanyà": {
+    "nom": "Punxada de birres artesanes",
+    "ubicacio": "Esclanyà",
+    "data_inici": "2025/08/01",
+    "data_fi": "2025/08/01",
+    "latitud": 41.9292083261548,
+    "longitud": 3.1762178502614566,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/punxada_de_birres_artesanes_esclanyà.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/punxada_de_birres_artesanes_esclanyà.pdf"
+  },
+  "festa_major_esclanyà": {
+    "nom": "Festa Major",
+    "ubicacio": "Esclanyà",
+    "data_inici": "2025/07/26",
+    "data_fi": "2025/08/03",
+    "latitud": 41.9292083261548,
+    "longitud": 3.1762178502614566,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_esclanyà.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_esclanyà.pdf"
+  },
+  "cinema_a_la_fresca_el47_vilagrassa": {
+    "nom": "Cinema a la fresca \"el47\"",
+    "ubicacio": "Vilagrassa",
+    "data_inici": "2025/08/01",
+    "data_fi": "2025/08/01",
+    "latitud": 41.6495083333,
+    "longitud": 1.1069,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/cinema_a_la_fresca_el47_vilagrassa.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/cinema_a_la_fresca_el47_vilagrassa.pdf"
+  },
+  "festa_major_blanes": {
+    "nom": "Festa Major",
+    "ubicacio": "Blanes",
+    "data_inici": "2025/07/22",
+    "data_fi": "2025/07/28",
+    "latitud": 41.6761694444,
+    "longitud": 2.7915666667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_blanes.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_blanes.pdf"
   }
 }
