@@ -20,7 +20,7 @@
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/visita_al_molí_de_la_conqueta__sopar_sant_feliu_de_pallerols.pdf"
   },
   "festa_petita_sant_feliu_de_pallerols": {
-    "nom": "Festa petita",
+    "nom": "Festa Petita",
     "ubicacio": "Sant Feliu de Pallerols",
     "data_inici": "2025/08/01",
     "data_fi": "2025/08/01",
@@ -298,5 +298,25 @@
     "longitud": 2.7915666667,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_30/festa_major_blanes.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_30/festa_major_blanes.pdf"
+  },
+  "frater_fest_sant_feliu_de_pallerols": {
+    "nom": "Frater Fest",
+    "ubicacio": "Sant Feliu de Pallerols",
+    "data_inici": "2025/08/02",
+    "data_fi": "2025/08/02",
+    "latitud": 42.0767777778,
+    "longitud": 2.5088972222,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/frater_fest_sant_feliu_de_pallerols.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/frater_fest_sant_feliu_de_pallerols.pdf"
+  },
+  "festa_major_brises_del_mar_altafulla": {
+    "nom": "Festa Major Brises del mar",
+    "ubicacio": "Altafulla",
+    "data_inici": "2025/08/01",
+    "data_fi": "2025/08/02",
+    "latitud": 41.1425,
+    "longitud": 1.3771305556,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_brises_del_mar_altafulla.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_brises_del_mar_altafulla.pdf"
   }
 }
