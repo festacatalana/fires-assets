@@ -318,5 +318,65 @@
     "longitud": 1.3771305556,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_brises_del_mar_altafulla.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_brises_del_mar_altafulla.pdf"
+  },
+  "festa_major_albatàrrec": {
+    "nom": "Festa Major",
+    "ubicacio": "Albatàrrec",
+    "data_inici": "2025/08/01",
+    "data_fi": "2025/08/03",
+    "latitud": 41.5742055556,
+    "longitud": 0.6065722222,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_albatàrrec.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_albatàrrec.pdf"
+  },
+  "festa_major_sant_llorenç_dhortons": {
+    "nom": "Festa Major",
+    "ubicacio": "Sant Llorenç d'hortons",
+    "data_inici": "2025/08/01",
+    "data_fi": "2025/08/12",
+    "latitud": 41.4689833333,
+    "longitud": 1.8255722222,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_sant_llorenç_dhortons.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_sant_llorenç_dhortons.pdf"
+  },
+  "festa_major_vimbodí_i_poblet": {
+    "nom": "Festa Major",
+    "ubicacio": "Vimbodí i Poblet",
+    "data_inici": "2025/08/01",
+    "data_fi": "2025/08/06",
+    "latitud": 41.401575,
+    "longitud": 1.0513166667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_vimbodí_i_poblet.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_vimbodí_i_poblet.pdf"
+  },
+  "festa_major_sant_esteve_de_palautordera": {
+    "nom": "Festa Major",
+    "ubicacio": "Sant Esteve de Palautordera",
+    "data_inici": "2025/08/01",
+    "data_fi": "2025/08/04",
+    "latitud": 41.7045444444,
+    "longitud": 2.4358666667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_sant_esteve_de_palautordera.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_sant_esteve_de_palautordera.pdf"
+  },
+  "festa_major_de_bonaterra_albinyana": {
+    "nom": "Festa Major de Bonaterra",
+    "ubicacio": "Albinyana",
+    "data_inici": "2025/08/01",
+    "data_fi": "2025/08/03",
+    "latitud": 41.2469333333,
+    "longitud": 1.4891166667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_de_bonaterra_albinyana.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_de_bonaterra_albinyana.pdf"
+  },
+  "festa_major_seva": {
+    "nom": "Festa Major",
+    "ubicacio": "Seva",
+    "data_inici": "2025/08/02",
+    "data_fi": "2025/08/17",
+    "latitud": 41.8397972222,
+    "longitud": 2.2852861111,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_seva.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_seva.pdf"
   }
 }

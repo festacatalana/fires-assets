@@ -158,5 +158,115 @@
     "longitud": 2.7334777778,
     "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_32/festa_major_maçanet_de_la_selva.png",
     "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_32/festa_major_maçanet_de_la_selva.pdf"
+  },
+  "festa_major_sant_llorenç_dhortons": {
+    "nom": "Festa Major",
+    "ubicacio": "Sant Llorenç d'hortons",
+    "data_inici": "2025/08/01",
+    "data_fi": "2025/08/12",
+    "latitud": 41.4689833333,
+    "longitud": 1.8255722222,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_sant_llorenç_dhortons.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_sant_llorenç_dhortons.pdf"
+  },
+  "festa_major_vimbodí_i_poblet": {
+    "nom": "Festa Major",
+    "ubicacio": "Vimbodí i Poblet",
+    "data_inici": "2025/08/01",
+    "data_fi": "2025/08/06",
+    "latitud": 41.401575,
+    "longitud": 1.0513166667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_vimbodí_i_poblet.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_vimbodí_i_poblet.pdf"
+  },
+  "festa_major_sant_esteve_de_palautordera": {
+    "nom": "Festa Major",
+    "ubicacio": "Sant Esteve de Palautordera",
+    "data_inici": "2025/08/01",
+    "data_fi": "2025/08/04",
+    "latitud": 41.7045444444,
+    "longitud": 2.4358666667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_sant_esteve_de_palautordera.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_sant_esteve_de_palautordera.pdf"
+  },
+  "festa_major_de_la_papiola_albinyana": {
+    "nom": "Festa Major de la Papiola",
+    "ubicacio": "Albinyana",
+    "data_inici": "2025/08/08",
+    "data_fi": "2025/08/10",
+    "latitud": 41.2469333333,
+    "longitud": 1.4891166667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_32/festa_major_de_la_papiola_albinyana.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_32/festa_major_de_la_papiola_albinyana.pdf"
+  },
+  "festa_major_seva": {
+    "nom": "Festa Major",
+    "ubicacio": "Seva",
+    "data_inici": "2025/08/02",
+    "data_fi": "2025/08/17",
+    "latitud": 41.8397972222,
+    "longitud": 2.2852861111,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_31/festa_major_seva.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_31/festa_major_seva.pdf"
+  },
+  "festa_major_torrebesses": {
+    "nom": "Festa Major",
+    "ubicacio": "Torrebesses",
+    "data_inici": "2025/08/05",
+    "data_fi": "2025/08/10",
+    "latitud": 41.4273916667,
+    "longitud": 0.5952222222,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_32/festa_major_torrebesses.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_32/festa_major_torrebesses.pdf"
+  },
+  "festa_major_golmés": {
+    "nom": "Festa Major",
+    "ubicacio": "Golmés",
+    "data_inici": "2025/08/06",
+    "data_fi": "2025/08/10",
+    "latitud": 41.6352361111,
+    "longitud": 0.9320444444,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_32/festa_major_golmés.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_32/festa_major_golmés.pdf"
+  },
+  "festa_major_bigues_i_riells_del_fai": {
+    "nom": "Festa Major",
+    "ubicacio": "Bigues i Riells del Fai",
+    "data_inici": "2025/08/07",
+    "data_fi": "2025/08/10",
+    "latitud": 41.6779083333,
+    "longitud": 2.2237444444,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_32/festa_major_bigues_i_riells_del_fai.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_32/festa_major_bigues_i_riells_del_fai.pdf"
+  },
+  "festa_major_fontrubí": {
+    "nom": "Festa Major",
+    "ubicacio": "Font-rubí",
+    "data_inici": "2025/08/08",
+    "data_fi": "2025/08/17",
+    "latitud": 41.4146861111,
+    "longitud": 1.6521416667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_32/festa_major_fontrubí.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_32/festa_major_fontrubí.pdf"
+  },
+  "festes_majors_deltebre": {
+    "nom": "Festes Majors",
+    "ubicacio": "Deltebre",
+    "data_inici": "2025/08/08",
+    "data_fi": "2025/08/17",
+    "latitud": 40.7209305556,
+    "longitud": 0.7232472222,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_32/festes_majors_deltebre.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_32/festes_majors_deltebre.pdf"
+  },
+  "festes_majors_amposta": {
+    "nom": "Festes Majors",
+    "ubicacio": "Amposta",
+    "data_inici": "2025/08/08",
+    "data_fi": "2025/08/17",
+    "latitud": 40.7099305556,
+    "longitud": 0.5809916667,
+    "cartell": "https://festacatalana.github.io/fires-assets/cartells/setmana_32/festes_majors_amposta.png",
+    "pdf": "https://festacatalana.github.io/fires-assets/pdfs/setmana_32/festes_majors_amposta.pdf"
   }
 }
